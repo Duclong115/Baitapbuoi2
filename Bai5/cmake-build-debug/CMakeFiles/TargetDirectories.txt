@@ -1,0 +1,3 @@
+F:/Clion/BaitapObuoii2/Bai5/cmake-build-debug/CMakeFiles/Bai5.dir
+F:/Clion/BaitapObuoii2/Bai5/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion/BaitapObuoii2/Bai5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
