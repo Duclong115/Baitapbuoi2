@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Bai5.dir/objects.a
-C:\MinGW64\MinGW64\bin\ar.exe cr CMakeFiles\Bai5.dir/objects.a @CMakeFiles\Bai5.dir\objects1.rsp
-C:\MinGW64\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Bai5.dir/objects.a -Wl,--no-whole-archive  -o Bai5.exe -Wl,--out-implib,libBai5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bai5.dir\linklibs.rsp
